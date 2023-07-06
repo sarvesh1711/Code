@@ -21,7 +21,22 @@ class Factorial
 	
 }
 	
+
+output:
+
+D:\Aurionpro>javac Factorial.java
 	
+D:\Aurionpro>java Factorial
+Enter no
+5
+120
+
+D:\Aurionpro>javac Factorial.java
+
+D:\Aurionpro>java Factorial
+Enter no
+9
+362880
 	
 
 	
