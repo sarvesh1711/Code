@@ -29,6 +29,7 @@ else
 }
 }
 
+/*
 Output:
 
 D:\Aurionpro>javac Prime.java
@@ -37,5 +38,5 @@ D:\Aurionpro>java Prime
 Enter no
 3
 prime
-
+*/
 
