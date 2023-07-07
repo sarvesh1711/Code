@@ -21,6 +21,7 @@ public class Fibonacci {
     }
 }
 
+/*
 Output:
 
 D:\Aurionpro>javac Fibonacci.java
@@ -29,3 +30,4 @@ D:\Aurionpro>java Fibonacci
 10
 Fibonacci Series: 0 1 1 2 3 5 8 13 21 34
 D:\Aurionpro>javac Fibonacci.java
+*/
